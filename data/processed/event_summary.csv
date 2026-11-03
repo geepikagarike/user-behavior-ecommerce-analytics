@@ -1,0 +1,5 @@
+event_name,total_events,unique_users
+add_to_cart,4,1
+begin_checkout,1411,832
+purchase,273,224
+view_item,33746,4937

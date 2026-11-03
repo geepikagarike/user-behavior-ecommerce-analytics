@@ -1,0 +1,17 @@
+# Data collection and configuration
+requests
+python-dotenv
+
+# Data handling and database access
+pandas
+numpy
+SQLAlchemy
+
+# Notebooks and visualization
+jupyterlab
+matplotlib
+seaborn
+plotly
+
+# Reading and writing Excel files when needed
+openpyxl
